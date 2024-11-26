@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# тут что-то написано
 # Версия операционной системы
 os_version=$(cat /etc/os-release | grep "PRETTY_NAME" | cut -d '"' -f 2)
 
